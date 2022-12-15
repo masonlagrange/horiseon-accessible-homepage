@@ -14,7 +14,7 @@ There is no specific usage of this project, it is more of a demonstration of acc
 
 ## Link
 
-
+https://masonlagrange.github.io/horiseon-accessible-homepage/
 
 ## Screenshot of Homepage
 ![image](https://user-images.githubusercontent.com/119389197/207776546-c0653d81-1adf-4f2c-bba3-d0844f7b5f67.png)
